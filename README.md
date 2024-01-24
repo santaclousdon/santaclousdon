@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 I'm Ayush Sharma<br><br>  <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />  🔭 I’m Currently Working On My Life<br><br>     🌱 I’m Currently Studying<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/Python<br><br>    📫 Reach Me On Twitter: CyberBoyAyush<br>
+👋 I'm Santa Clous<br><br>  <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />  🔭 I’m Currently Working On My Life<br><br>     🌱 I’m Currently Studying<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/BlockChain/FullStack<br><br>
 <br><br>
 
 # 🔥 Languages-Frameworks-Tools 🔥
@@ -31,41 +31,22 @@
 </p>
 <br />
 
-<hr />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Santa%20Clous&theme=radical" alt="GitHub Streak" /></a>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+# ⚡ Stats ⚡
 <br />
 <p align=center>
 <!-- first row -->
   <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&border=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=react&border=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
-      </picture>
-    </a>
+    
+ ![santaclous112's Stats](https://github-readme-stats.vercel.app/api?username=santaclous112&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![santaclous112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santaclous112&theme=prussian&hide_border=true)
+  ![santaclous112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santaclous112&theme=prussian&show_icons=true&hide_border=true&layout=compact)
   </div>
-  <!-- space -->
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<!-- second row -->
-  <div align=center>
-  <!-- language stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyy&langs_count=8&layout=compact&border_color=61dafb" alt="sanidhyy's language stats" />
-      </picture>
-    </a>
-  </div>
+<br>
+
+# 👨‍💻 Activity Graph 👨‍💻
+<br/> <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santaclous112&bg_color=f1eff0&color=9e4c98&line=413941&point=775555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+# 📫 Contacts📫
