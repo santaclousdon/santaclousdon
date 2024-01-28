@@ -1,8 +1,9 @@
 
 
 # 💫 About Me:
-👋 I'm Santa Clous<br><br>  <img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />  🔭 I’m Currently Working On My Life<br><br>     🌱 I’m Currently Studying<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/BlockChain/FullStack<br><br>
-<br><br><br>
+<img align="right" img width="55%" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" height="250" />
+👋 I'm Santa Clous<br><br>    🔭 I’m Currently Working On My Life<br><br>     🌱 I’m Currently Studying<br><br>    👯 I’m Looking To Collaborate On Projects<br><br>    💬 Ask me about Web Dev/BlockChain/FullStack<br><br>
+<br><br>
 
 # 🔥 Languages-Frameworks-Tools 🔥
 <br />
