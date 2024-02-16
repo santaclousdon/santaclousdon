@@ -38,26 +38,26 @@
 <!-- first row -->
   <div align=center>
     
- ![santaclous112's Stats](https://github-readme-stats.vercel.app/api?username=santaclous112&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-![santaclous112's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santaclous112&theme=prussian&hide_border=true)
-  ![santaclous112's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santaclous112&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+ ![santaclousdon's Stats](https://github-readme-stats.vercel.app/api?username=santaclousdon&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![santaclousdon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santaclousdon&theme=prussian&hide_border=true)
+  ![santaclousdon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santaclousdon&theme=prussian&show_icons=true&hide_border=true&layout=compact)
   </div>
 <br>
 
 # 👨‍💻 Activity Graph 👨‍💻
 <br/> <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santaclous112&bg_color=f1eff0&color=9e4c98&line=413941&point=775555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santaclousdon&bg_color=f1eff0&color=9e4c98&line=413941&point=775555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 # 📫 Contacts📫
 <br/> <br/>
 
-![Gmail](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
+![Gmail](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
         santaclous112@gmail.com
 
-![Skype](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
+![Skype](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
         live:.cid.772f958a47f37977
 
-![Telegram](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
+![Telegram](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
         PeaceStar01
