@@ -52,7 +52,6 @@
 <br/>
 
 # 📫 Contacts📫
-<br/> <br/>
 
 ![Gmail](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
         santaclous112@gmail.com
