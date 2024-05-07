@@ -50,14 +50,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santaclousdon&bg_color=f1eff0&color=9e4c98&line=413941&point=775555&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-
-# 📫 Contacts📫
-
-![Gmail](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
-        santaclous112@gmail.com
-
-![Skype](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/skype.svg)               
-        live:.cid.772f958a47f37977
-
-![Telegram](https://github.com/santaclousdon/MonilP-Portfolio/blob/master/src/components/Icon/svg/telegram.svg)               
-        santaclous112
