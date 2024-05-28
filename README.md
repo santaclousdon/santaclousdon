@@ -38,7 +38,7 @@
 <!-- first row -->
   <div align=center>
     
- ![santaclousdon's Stats](https://github-readme-stats.vercel.app/api?username=santaclousdon&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
 
 ![santaclousdon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santaclousdon&theme=prussian&hide_border=true)
   ![santaclousdon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santaclousdon&theme=prussian&show_icons=true&hide_border=true&layout=compact)
