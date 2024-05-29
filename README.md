@@ -37,12 +37,11 @@
 <p align=center>
 <!-- first row -->
   <div align=center>
-    
-
-
-![santaclousdon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=santaclousdon&theme=prussian&hide_border=true)
-  ![santaclousdon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santaclousdon&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santaclousdon&theme=radical&count_private=true" /> 
+<img align="center" alt="msilucifer's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santaclousdon&show_icons=true&hide_border=false&theme=radical&count_private=true" /><br /><br />
   </div>
+<br>
+<br>
 <br>
 
 # 👨‍💻 Activity Graph 👨‍💻
