@@ -33,7 +33,6 @@
 <br />
 
 # ⚡ Stats ⚡
-<br />
 <p align=center>
 <!-- first row -->
   <div align=center>
